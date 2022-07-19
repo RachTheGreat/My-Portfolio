@@ -46,7 +46,8 @@ h1 {
   div.container {
     text-align: center;
   }
-  ol {
+
+  ol.myOl {
     display: inline-block;
     text-align: left;
   }
