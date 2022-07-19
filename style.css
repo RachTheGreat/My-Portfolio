@@ -46,7 +46,7 @@ h1 {
   div.container {
     text-align: center;
   }
-  ol.container {
+  ol {
     display: inline-block;
     text-align: left;
   }
